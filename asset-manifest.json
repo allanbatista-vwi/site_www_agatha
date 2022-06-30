@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/estetica-agatha-regis/static/css/main.9c2a8fbc.css",
-    "main.js": "/estetica-agatha-regis/static/js/main.8b22c0da.js",
-    "static/js/787.f22e8989.chunk.js": "/estetica-agatha-regis/static/js/787.f22e8989.chunk.js",
-    "static/media/home.png": "/estetica-agatha-regis/static/media/home.5dfc94acb84529b26409.png",
-    "index.html": "/estetica-agatha-regis/index.html",
-    "main.9c2a8fbc.css.map": "/estetica-agatha-regis/static/css/main.9c2a8fbc.css.map",
-    "main.8b22c0da.js.map": "/estetica-agatha-regis/static/js/main.8b22c0da.js.map",
-    "787.f22e8989.chunk.js.map": "/estetica-agatha-regis/static/js/787.f22e8989.chunk.js.map"
+    "main.css": "/site_www_agatharegis/static/css/main.9c2a8fbc.css",
+    "main.js": "/site_www_agatharegis/static/js/main.458e1637.js",
+    "static/js/787.f22e8989.chunk.js": "/site_www_agatharegis/static/js/787.f22e8989.chunk.js",
+    "static/media/home.png": "/site_www_agatharegis/static/media/home.5dfc94acb84529b26409.png",
+    "index.html": "/site_www_agatharegis/index.html",
+    "main.9c2a8fbc.css.map": "/site_www_agatharegis/static/css/main.9c2a8fbc.css.map",
+    "main.458e1637.js.map": "/site_www_agatharegis/static/js/main.458e1637.js.map",
+    "787.f22e8989.chunk.js.map": "/site_www_agatharegis/static/js/787.f22e8989.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9c2a8fbc.css",
-    "static/js/main.8b22c0da.js"
+    "static/js/main.458e1637.js"
   ]
 }
