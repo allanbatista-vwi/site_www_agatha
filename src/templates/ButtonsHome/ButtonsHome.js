@@ -3,15 +3,15 @@ import { Button } from 'reactstrap';
 
 function ButtonsHome() {
     return (
-        <div>
+        <div className='mobile'>
             <h1>
                 Em que posso te ajudar?
             </h1>
-            <p>
+            <div className='mb-2'>
                 <button className='cliente'>
                     Estou em busca de procedimentos
                 </button>
-            </p>
+            </div>
             <p>
                 <button className='profissional'>
                     Sou profissional da área

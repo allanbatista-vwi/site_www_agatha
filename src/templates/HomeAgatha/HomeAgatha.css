@@ -1,5 +1,14 @@
 img {
     width: 70%;
     height: 70%;
-    margin-left: 100px;
+
 }
+
+@media only screen and (max-width: 600px) {
+    img {
+        padding-left: 100px;
+        margin-top: -300px;
+        width: 90%;
+        height: 90%;
+    }
+  }
