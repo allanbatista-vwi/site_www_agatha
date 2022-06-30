@@ -42,6 +42,10 @@ h1 {
 }
 
 @media only screen and (max-width: 600px) {
+    .mobile {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
     .cliente {
         align-items: center!important;
     }
