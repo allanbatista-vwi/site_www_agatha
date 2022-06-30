@@ -1,0 +1,42 @@
+h1 {
+    font-size: 50px!important;
+    font-family: 'Parisienne', cursive;
+}
+
+.cliente{
+    font-weight: 500;
+    padding: 10px 15px 10px 15px;
+    border-radius: 10px;
+    background-color: #93A6A2;
+    color: white;
+    border: none;
+    
+}
+
+.cliente:hover{
+    font-weight: 500;
+    padding: 10px 15px 10px 15px;
+    border-radius: 10px;
+    background-color: #93A6b9;
+    color: white;
+    border: none;
+    
+}
+
+.profissional{
+    font-weight: 500;
+    padding: 10px 15px 10px 15px;
+    border-radius: 10px;
+    background-color: #93A6A2;
+    color: white;
+    border: none;
+}
+
+.profissional:hover{
+    font-weight: 500;
+    padding: 10px 15px 10px 15px;
+    border-radius: 10px;
+    background-color: #93A6b9;
+    color: white;
+    border: none;
+}
