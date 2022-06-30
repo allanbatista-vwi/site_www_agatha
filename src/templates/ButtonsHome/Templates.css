@@ -43,8 +43,8 @@ h1 {
 
 @media only screen and (max-width: 600px) {
     .mobile {
-        margin-left: 10px;
-        margin-right: 10px;
+        margin-left: 5px;
+        margin-right: 5px;
     }
     .cliente {
         align-items: center!important;
